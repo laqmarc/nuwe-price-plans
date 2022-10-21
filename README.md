@@ -19,7 +19,7 @@ També he utilitzat les llibreries **SweetAlert2** per el popup de l'email i per
 
 ## Validació
 He utilitzar SonarCloud per validar que tot estés bé.
-![sonarcloud](https://nuwe-price-plan.quexulo.cat/images/sonarcloudreport.png)
+![sonarcloud](https://nuwe-price-plan.quexulo.cat/sonarcloudreport.png)
 
 ## Pantallazos
 
@@ -32,7 +32,7 @@ He utilitzar SonarCloud per validar que tot estés bé.
 
 ## Projecte online
 
-[nuwe-price-plan.quexulo.cat](https://nuwe-price-plan.quexulo.cat/)]
+[nuwe-price-plan.quexulo.cat](https://nuwe-price-plan.quexulo.cat/)
 
 ## Licence
 
