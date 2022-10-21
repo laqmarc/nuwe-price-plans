@@ -25,7 +25,7 @@ També he utilitzat les llibreries **SweetAlert2** per el popup de l'email i per
 ![977 - 769](https://nuwe-price-plan.quexulo.cat/images/pantallazos/price-plans-3.png)
 ![769 - 635](https://nuwe-price-plan.quexulo.cat/images/pantallazos/price-plans-4.png)
 ![635 - 400](https://nuwe-price-plan.quexulo.cat/images/pantallazos/price-plans-5.png)
-![popup email](https://nuwe-price-plan.quexulo.cat/images/pantallazos/price-plans-email.png)
+![popup email](https://nuwe-price-plan.quexulo.cat/images/pantallazos/price-plan-email.png)
 
 ## Projecte online
 
