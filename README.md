@@ -17,6 +17,9 @@ He fet talls pel responsive buscant adaptant el disseny proposat:
 He utilitzat **HTML**, **CSS**, **Javascript** i **Jquery**. 
 També he utilitzat les llibreries **SweetAlert2** per el popup de l'email i per la seva validació i també la llibreria **animate** per donar-li una mica de moviment.
 
+## Validació
+He utilitzar SonarCloud per validar que tot estés bé.
+![sonarcloud](https://nuwe-price-plan.quexulo.cat/images/pantallazos/sonarcloud.png)
 
 ## Pantallazos
 
